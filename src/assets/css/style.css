@@ -47,7 +47,7 @@ li {
     display: flex;
     flex-direction: column;
     text-align: center;
-    background: url(https://cdn.glitch.com/84b0d8d6-119b-455f-b6f7-429c2d137093%2Fbackground-1%20-%20Copia.jpg?v=1594005399177) top / cover no-repeat;
+    background: url(../images/bg-01.jpg) top / cover no-repeat;
 }
 
 .logo-search {
@@ -70,7 +70,7 @@ li {
 
 .search {
     width: 20px;
-    background: url(https://cdn.glitch.com/84b0d8d6-119b-455f-b6f7-429c2d137093%2Fsearch.png?v=1594005445674) no-repeat center;
+    background: url(../images/bg-01.jpg) no-repeat center;
     background-size: 30px;
     
     padding: 20px;
@@ -273,7 +273,7 @@ li {
 }
 
 .login {
-    background: url(https://cdn.glitch.com/84b0d8d6-119b-455f-b6f7-429c2d137093%2Fbackground-2.jpg?v=1594081559849) bottom / cover no-repeat fixed;
+    background: url(../images/bg-02.jpg) bottom / cover no-repeat fixed;
     display: flex;
     text-align: center;
     align-items: center;
